@@ -4,7 +4,7 @@ public class Ahorcado
 	public static void main(String[] args) 
 	{
 		String palabra = "";
-		char[] palabraArray = new char[50]//Arrays suck.
+		char[] palabraArray = new char[50];//Arrays suck.
 		char letra;
 		Scanner scan = new Scanner(System.in);
 		char oculto = '_';
